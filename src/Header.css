@@ -1,0 +1,17 @@
+.Header {
+  background-color: darkgray;
+}
+.Header-textblock {
+  float: left;
+}
+.Header-imageblock {
+  height: 200px;
+}
+.headshot {
+  float: right;
+  max-height: 200px;
+  padding-right: 50px;
+}
+.Header-textblock-title {
+  font-size: 70px;
+}
